@@ -2,7 +2,7 @@
 *Published: November 20, 2023*
 **https://doi.org/10.1371/journal.pone.0294447**
 
-*ICBHI 2-17 Challenge database: https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge*
+*ICBHI 2017 Challenge database: https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge*
 
 ![Fig1](https://github.com/sunghoon-most/Wheeze_Counter/assets/76245832/475d93d4-d3f3-45a4-8f3f-89f98eb78205)
 
