@@ -1,4 +1,4 @@
-**Fig 1. Overall procedure of wheeze counting algorithm development and applications.
+**Fig 1. Overall procedure of wheeze counting algorithm development and applications.**
 
 ## Abstract 
 
