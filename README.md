@@ -1,3 +1,5 @@
+![Fig1](https://github.com/sunghoon-most/Wheeze_Counter/assets/76245832/475d93d4-d3f3-45a4-8f3f-89f98eb78205)
+
 **Fig 1. Overall procedure of wheeze counting algorithm development and applications.**
 
 ## Abstract 
