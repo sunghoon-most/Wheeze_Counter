@@ -1,5 +1,4 @@
-**Title:
-Real-time counting of wheezing events from lung sounds using deep learning algorithms: Implications for disease prediction and early intervention**
+**Real-time counting of wheezing events from lung sounds using deep learning algorithms: Implications for disease prediction and early intervention**
 *Published: November 20, 2023*
 **https://doi.org/10.1371/journal.pone.0294447**
 
